@@ -1,0 +1,18 @@
+body {
+    font-family: sans-serif;
+}
+
+textarea {
+    width: calc(100vw - 40px);
+    max-width: 500px;
+    min-height: 69px;
+    height: 73px;
+    resize: none;
+    display: block;
+}
+
+select, button, textarea {
+    font-size: 20px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
